@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aaf082a-33b2-4b01-b848-82f57213b758" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/game/game-object-oriented.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/game/game-object-oriented.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/game/game-tutorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/game/game-tutorial.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style-game.css" beforeDir="false" afterPath="$PROJECT_DIR$/style-game.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,16 +24,16 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
-              <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+              <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-game.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style-game.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style-game.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="682" column="1" selection-start-line="682" selection-start-column="1" selection-end-line="682" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="97" column="11" lean-forward="true" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -37,8 +41,17 @@
       <file leaf-file-name="game-object-oriented.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/game/game-object-oriented.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6486">
-              <caret line="282" column="3" selection-start-line="282" selection-start-column="3" selection-end-line="282" selection-end-column="3" />
+            <state relative-caret-position="262">
+              <caret line="272" column="5" lean-forward="true" selection-start-line="272" selection-start-column="5" selection-end-line="272" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game-tutorial.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/game/game-tutorial.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="132" selection-start-line="5" selection-start-column="132" selection-end-line="5" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -86,9 +99,9 @@
         <option value="$PROJECT_DIR$/img/shopping-.svg" />
         <option value="$PROJECT_DIR$/img/tag.svg" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/game/game-tutorial.js" />
         <option value="$PROJECT_DIR$/js/game/game-object-oriented.js" />
         <option value="$PROJECT_DIR$/style-game.css" />
+        <option value="$PROJECT_DIR$/js/game/game-tutorial.js" />
       </list>
     </option>
   </component>
@@ -173,12 +186,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526321755978</updated>
-      <workItem from="1526321757256" duration="2808000" />
+      <workItem from="1526321757256" duration="4251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2808000" />
+    <option name="totallyTimeSpent" value="4251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1987" y="-2" width="1853" height="1082" extended-state="6" />
@@ -273,9 +286,6 @@
     <entry file="file://$PROJECT_DIR$/img/paluch-right.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/pixel-cardboard-box.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/pl.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -291,9 +301,6 @@
     <entry file="file://$PROJECT_DIR$/img/plane2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/pixel-cardboard-box-destroyed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/sortowanie.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -306,13 +313,6 @@
     <entry file="file://$PROJECT_DIR$/img/right.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/game/game-tutorial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/game/game-menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -320,24 +320,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/game/game-object-oriented.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6486">
-          <caret line="282" column="3" selection-start-line="282" selection-start-column="3" selection-end-line="282" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
-          <caret line="17" column="65" lean-forward="true" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/pixel-cardboard-box.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/pixel-cardboard-box-destroyed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/style-game.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="682" column="1" selection-start-line="682" selection-start-column="1" selection-end-line="682" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="97" column="11" lean-forward="true" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game/game-object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="272" column="5" lean-forward="true" selection-start-line="272" selection-start-column="5" selection-end-line="272" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game/game-tutorial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="132" selection-start-line="5" selection-start-column="132" selection-end-line="5" selection-end-column="132" />
         </state>
       </provider>
     </entry>

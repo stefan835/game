@@ -268,6 +268,12 @@ var startGame = function (isTutorial) {
       character.moveRight();
     }
   });
+  $('.left-side').click(function () {
+    character.moveLeft();
+  });
+  $('.right-side').click(function () {
+    character.moveRight();
+  });
 
 
   $('.try-again--button').click(function () {

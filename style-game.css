@@ -84,6 +84,22 @@
     position: relative;
 }
 
+.left-side {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+}
+
+.right-side {
+    position: absolute;
+   right: 0;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+}
+
 .character {
     height: 70px;
     width: 70px;

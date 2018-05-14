@@ -3,7 +3,7 @@ function openTutorial() {
 
   startGame(true);
 
-  $('.board-game').append($("<div>").text("Move character left and right by pressing arrows").addClass("tutorial-example"));
+  $('.board-game').append($("<div>").text("Move character left and right by pressing arrows or clicking left and right side of board").addClass("tutorial-example"));
 
   $('.character').css({background: "url('img/ludzik-z-workiem-prawo.png')"}).animate({left: 270}, 1000).animate({left: 285}, 1000).animate({left: 300}, 1000);
   $('.board-game').append($("<div>").addClass("arrow-right").fadeOut(500).fadeIn(500).fadeOut(500).fadeIn(500).fadeOut(500));
