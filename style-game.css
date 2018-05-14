@@ -565,33 +565,6 @@
 
 }
 
-.health-example-arow {
-    background: url("img/arow-left.png") no-repeat;
-    background-size: cover;
-    position: absolute;
-    top: 40px;
-    left: 10px;
-    width: 40px;
-    height: 40px;
-    font-size: 30px;
-    font-weight: 600;
-    text-align: center;
-}
-
-.point-example-arow {
-    background: url("img/arow-right.png") no-repeat;
-    background-size: cover;
-    position: absolute;
-    top: 40px;
-    right: 10px;
-    width: 40px;
-    height: 40px;
-    font-size: 30px;
-    font-weight: 600;
-    text-align: center;
-
-}
-
 .arrows-left:after {
     content: "";
     background: url("img/paluch-left.png") no-repeat;
@@ -699,4 +672,12 @@
         color: black;
     }
 
+}
+
+@media (max-width: 580px) {
+    body {
+        zoom: 0.5;
+        -moz-transform: scale(0.5);
+        -moz-transform-origin: 0 0;
+    }
 }
