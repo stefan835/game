@@ -2,56 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aaf082a-33b2-4b01-b848-82f57213b758" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/img/board-backround.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/board.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bomb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bomba-wybuch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/clavier.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/cloud1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/life.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ludzik-z-workiem-lewo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ludzik-z-workiem-prawo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/paluch-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/paluch-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/paluch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pixel-cardboard-box-destroyed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pixel-cardboard-box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/plane2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-lewo-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/skins/ludzik-z-workiem-prawo-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/taps/tt1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/taps/tt3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/taps/tt5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/taps/tt8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/truck.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style-game.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/game/game-object-oriented.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/game/game-object-oriented.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="637">
+              <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -83,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game-tutorial.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/game/game-tutorial.js">
+      <file leaf-file-name="game-object-oriented.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/game/game-object-oriented.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1196">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="6486">
+              <caret line="282" column="3" selection-start-line="282" selection-start-column="3" selection-end-line="282" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -132,6 +84,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style-game.css" />
         <option value="$PROJECT_DIR$/js/game/game-tutorial.js" />
+        <option value="$PROJECT_DIR$/js/game/game-object-oriented.js" />
       </list>
     </option>
   </component>
@@ -216,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526321755978</updated>
-      <workItem from="1526321757256" duration="1246000" />
+      <workItem from="1526321757256" duration="1638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1246000" />
+    <option name="totallyTimeSpent" value="1638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1987" y="-2" width="1853" height="1082" extended-state="6" />
@@ -253,13 +206,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/game/game-menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-3.2.1.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -358,8 +304,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="637">
+          <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game/game-tutorial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -370,10 +323,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/game/game-tutorial.js">
+    <entry file="file://$PROJECT_DIR$/js/game/game-menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="207">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game/game-object-oriented.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6486">
+          <caret line="282" column="3" selection-start-line="282" selection-start-column="3" selection-end-line="282" selection-end-column="3" />
         </state>
       </provider>
     </entry>
