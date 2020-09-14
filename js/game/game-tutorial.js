@@ -29,7 +29,7 @@ function openTutorial() {
   }, 8000);
 
   setTimeout(function () {
-    $('.tutorial-example').text("If you catch a bomb it will explode and make you loose one life. You also loose life when you don't catch box");
+    $('.tutorial-example').text("If you catch a bomb it will explode and make you lose one life. You also lose life when you don't catch box");
     $('.board-game').append($('<div>').addClass('bomb bomb-tutorial').css({
       left: 280
     }).animate({
@@ -48,11 +48,11 @@ function openTutorial() {
 
 
   setTimeout(function () {
-    $('.tutorial-example').css({top: 50}).text('Purpose of the game is to get as many points you can. There are rounds, which lasts 25 sec each. Every consecutive round is harder. Game ends when you got no lives left');
+    $('.tutorial-example').css({top: 50}).text('Purpose of the game is to get as many points as you can. There are rounds, which last 25 sec each. Every consecutive round is harder. The game ends when you have no lives left');
 
   }, 25000);
   setTimeout(function () {
-    $('.tutorial-example').css({top: 150}).text('Now try to play yourself. Press PLAY button in menu. GOOD LUCK!');
+    $('.tutorial-example').css({top: 150}).text('Now try to play yourself. Press the PLAY button in the menu. GOOD LUCK!');
 
   }, 34000);
 
